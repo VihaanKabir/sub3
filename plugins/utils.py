@@ -18,7 +18,6 @@ from config import (
     HEROKU_API_KEY,
     HEROKU_APP_NAME,
     LOGGER,
-    OWNER,
     PROTECT_CONTENT,
     START_MSG,
     TG_BOT_TOKEN,
@@ -52,7 +51,6 @@ APP_ID = <code>{APP_ID}</code>
 API_HASH = <code>{API_HASH}</code>
 TG_BOT_TOKEN = <code>{TG_BOT_TOKEN}</code>
 DATABASE_URL = <code>{DB_URI}</code>
-OWNER = <code>{OWNER}</code>
 ADMINS = <code>{ADMINS}</code>
     
 <u><b>CUSTOM VARS</b></u>
