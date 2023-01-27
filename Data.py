@@ -44,7 +44,7 @@ Managed by </b><a href='https://t.me/IndomieProject'>@IndomieProject</a>
         ],
     ]
 
-   ABOUT = """
+    ABOUT = """
 <b>Tentang Bot ini:
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
  • Creator: @{}
